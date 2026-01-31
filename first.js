@@ -9,3 +9,5 @@ function updateBalance(){
 }
 
 console.log("latest Update");
+
+console.log("newButton");
